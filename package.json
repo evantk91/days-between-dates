@@ -1,0 +1,22 @@
+{
+  "name": "days_between_dates_problem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evantk91/days-between-dates.git"
+  },
+  "author": "Evan Greer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evantk91/days-between-dates/issues"
+  },
+  "homepage": "https://github.com/evantk91/days-between-dates#readme",
+  "devDependencies": {
+    "mocha": "^7.2.0"
+  }
+}
