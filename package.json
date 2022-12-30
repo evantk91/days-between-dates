@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/evantk91/days-between-dates#readme",
   "devDependencies": {
-    "mocha": "^7.2.0"
+    "mocha": "^10.2.0"
   }
 }
